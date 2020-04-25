@@ -2,3 +2,6 @@ hey there.
 my first text file
 making changes
 adding to github
+hello everyone
+pizza
+burger
